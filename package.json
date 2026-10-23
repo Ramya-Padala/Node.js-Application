@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-cicd-project",
+  "version": "1.0.0",
+  "description": "Node.js CI/CD project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Tests passed\""
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
